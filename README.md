@@ -1,4 +1,4 @@
-# Hi there, I'm Yudhie Andriyana - aka [yudhieandriyana]([https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ](https://scholar.google.com/citations?hl=en&user=lOPqJVAAAAAJ&view_op=list_works&sortby=pubdate)) 👋
+# Hi there, I'm Yudhie Andriyana - aka [yudhieandriyana](https://scholar.google.com/citations?hl=en&user=lOPqJVAAAAAJ&view_op=list_works&sortby=pubdate) 👋
 ## About me:
 - 🔭 I’m currently working as Cyber Security
 - 🌱 I’m currently learning Python and Javascript
