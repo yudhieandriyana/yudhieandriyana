@@ -1,8 +1,8 @@
 # Hi there, I'm Yudhie Andriyana - aka [yudhie](https://scholar.google.com/citations?hl=en&user=lOPqJVAAAAAJ&view_op=list_works&sortby=pubdate) 👋
 ## About me:
-I am a lecturer and researcher with a strong background in statistics and quantitative analysis. I have experience in teaching undergraduate and graduate courses, supervising students, and conducting research in statistics. My research interests is on Robust Statistical Flexible Modelngs. I am using quantile loss function, implemented, for example, to space - time varying-coefficient models. I have served in leadership roles within academic and professional associations, contributing to program development and community engagement. I am committed to excellence in teaching, research, and academic service. 
+I am a lecturer and researcher with a strong background in statistics and quantitative analysis. I have experience in teaching undergraduate and graduate courses, supervising students, and conducting statistical research. My research interests focus on robust and flexible statistical modeling, particularly the use of quantile loss functions in space-time varying coefficient models. I have held leadership roles in academic and professional associations, contributing to program development and community engagement. I am committed to excellence in teaching, research, and academic service. 
 
-Here are some details information about my academic and research achievements:
+Here are some details information about my academic/research achievements:
 
    - ORCID ID: https://orcid.org/0000-0002-6407-3263
    - Scopus ID:  55985798500
