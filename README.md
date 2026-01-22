@@ -10,6 +10,8 @@ Here are some details information about my academic and research achievements:
    - Googlescholar index (Jan 2026):
      - h-index: 10
      - i10-index: 12
+
+#### Reach me at:
    - Email: yudhie.andriyana@gmail.com
    - Mobile: +6282219223300
 
